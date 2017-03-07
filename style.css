@@ -1,0 +1,57 @@
+body
+{
+	background-color: skyblue;
+}
+
+p
+{
+	font-family:Arial;
+	font-weight: bold;
+}
+
+h1
+{
+	font-family: harrington;
+}
+
+table, th, td
+{
+	border: 1px solid black;
+}
+
+/*visted link*/
+a:visited {color: black;
+}
+
+/* mouse over link*/
+a:hover {color: orange;
+}
+
+/* selected link*/
+a:active {color: green;
+}
+
+
+tr:hover {background-color: grey; font-weight:bold;
+}
+
+
+table, th, td {
+   border: 1px solid black; 
+}
+
+table {
+    width: 80%; 
+}
+
+
+th {
+    text-align: center;
+}	
+
+th {
+    background-color:red;
+}
+
+div class{red;
+}
